@@ -1,0 +1,165 @@
+
+body
+{
+    background-image: url("../images/movies/collection.jpg");
+}
+
+.main
+{
+    background-color:black;
+    width: 80%;
+    height: 1500px;
+    margin: auto;
+    margin-top: 3%;
+    
+}
+
+.logo
+{
+    background-color: blueviolet;
+    width: 20%;
+    height: 16%; 
+    float: left;
+}
+
+.heading
+{
+    display: inline-block;
+    background-color: red;
+    float: right;
+    width: 80%;
+    height: 16%;
+    
+    /* border: 5px solid; */
+
+}
+
+
+
+/* .section_1
+{
+    background-color: blue;
+    width: 33.33%;
+    height: 18%;
+    float: left;
+    border-radius: 50;
+} */
+
+/* .section_2_3
+{
+    background-color: palevioletred;
+    width: 100%;
+    float: right;
+} */
+
+.section_2
+{
+    background-color:orangered;
+    width: 33.33%;
+    height: 18%;
+    float: left;
+    border-radius: 100%;
+    
+}
+
+.section_3
+{
+    background-color:orangered;
+    width: 33.33%;
+    height: 18%;
+    float: left;
+    border-radius: 100%;
+}
+
+.section_1
+{
+    background-color:orangered;
+    width: 33.33%;
+    height: 18%;
+    float: left;
+    border-radius: 100%;
+    
+}
+
+.page_content
+{
+    background-color: cyan;
+    width: 80%;
+    height: 30%;
+    float: left;
+    border-radius: 50%;
+    text-align: justify;
+}
+
+.side_bar
+{
+    background-color: lawngreen;
+    width: 20%;
+    height: 50%;
+    float: right;
+}
+
+.page_footer
+{
+    background-color: yellow;
+    width: 100%;
+    height: 12%; 
+    margin-top: 97%;
+    margin-bottom: 2%;    
+}
+
+#font
+{
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    font-size: 50px;
+    align-content: center;
+    margin-left: 45%;
+    margin-top: 100%;
+    margin-bottom: 100%;
+}
+
+#logan
+{
+    border-radius: 50%;
+}
+
+.menu
+{
+    background-color:yellow;
+    width: 100%;
+    height: 3%;
+    margin: 10% 0% 1% 0%;
+}
+
+nav
+{
+    height: 42px;
+}
+
+nav ul
+{
+    list-style: none;
+    align-content: center;
+    align-items: center;
+}
+
+nav ul li a
+{
+    float: left;
+    text-decoration: none;
+    padding: 0px 35px;
+    color: red;
+    text-align: center;
+    height: 50px;
+    font-size: 25px;
+    
+}
+
+nav ul li a:hover
+{
+    background: aqua;
+    color: crimson;
+    border-radius: 60%;
+
+}
